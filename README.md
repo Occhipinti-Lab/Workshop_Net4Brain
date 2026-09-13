@@ -26,7 +26,7 @@ Steps are **demonstrated** on healthy cortex, then **repeated by students** on t
 | **Flux modules**            | 168 | 168 |
 | **Prediction task**         | Superficial (L1-L3) vs deep (L4-L6) layers | Tumour core vs periphery |
 | **Grouping for evaluation** | Donor | Patient |
-| **Notebook** | `Demo_DLPFC.ipynb` <a target="_blank" href="https://colab.research.google.com/github/Occhipinti-Lab/Workshop_Net4Brain/blob/main/Demo_DLPFC.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | `Try_GBM.ipynb` <a target="_blank" href="https://colab.research.google.com/github/Occhipinti-Lab/Workshop_Net4Brain/blob/main/Try_GBM.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| **Notebook** | `Demo_DLPFC.ipynb` <a target="_blank" href="https://colab.research.google.com/github/Occhipinti-Lab/Workshop_Net4Brain/blob/main/Demo_DLPFC.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | `Mini_Project_Spatial_notebook.ipynb` <a target="_blank" href="https://colab.research.google.com/github/Occhipinti-Lab/Workshop_Net4Brain/blob/main/Mini_Project_Spatial_notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 
 Each notebook is divided into **Day 1 / Day 2 / Day 3** sections matching the schedule below.

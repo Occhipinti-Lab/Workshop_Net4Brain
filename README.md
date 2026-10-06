@@ -126,10 +126,9 @@ the expression and metadata tables, and that alignment is asserted in the notebo
 Nature Neuroscience 24:425–436. [https://doi.org/10.1038/s41593-020-00787-0](https://doi.org/10.1038/s41593-020-00787-0)
 Data: [https://github.com/LieberInstitute/HumanPilot](https://github.com/LieberInstitute/HumanPilot)
 
-**Glioblastoma spatial transcriptomics** — Ravi VM, Will P, Kueckelhaus J, et al. (2022)
-*Spatially resolved multi-omics deciphers bidirectional tumor-host interdependence in
-glioblastoma.* Cancer Cell 40:639–655. [https://doi.org/10.1016/j.ccell.2022.05.009](https://doi.org/10.1016/j.ccell.2022.05.009)
-Region annotations follow the Ivy Glioblastoma Atlas Project scheme
+**Glioblastoma spatial transcriptomics** — Sonpatki P, Park HJ, Xing YL, et al. (2026)
+Nature Communications. [https://www.nature.com/articles/s41467-026-69716-2](https://www.nature.com/articles/s41467-026-69716-2)
+Region annotations follow the Ivy Glioblastoma Atlas Project scheme, refined by Sonpatki et al.
 ([https://glioblastoma.alleninstitute.org](https://glioblastoma.alleninstitute.org)).
 
 **Metabolic flux inference** — Alghamdi N, Chang W, Dang P, et al. (2021) *A graph neural network
